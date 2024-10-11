@@ -1,0 +1,8 @@
+Rectangle,4,6
+Circle,5
+Rectangle,8,14
+Rectangle,20,32
+Rectangle,27,28
+Circle,8
+Circle,6
+Rectangle,40,50
